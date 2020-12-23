@@ -9,9 +9,12 @@ You may find the original code on https://github.com/akirjavainen/A-OK
 Modifications and MIT application done by Saša Paunović.
 
 # How to use
-Capture your remote controls with Remote_control_capture.ino and copy&paste the 65 bit commands to Remote_control_roller_shades_via_Android.ino for sendAOKCommand(). 
+Capture your remote controls with Remote_control_capture.ino and copy&paste the 65 bit commands to Remote_control_roller_shades_via_Android.ino for sendAOKCommand().
+
 More info about this provided in Remote_control_roller_shades_via_Android.ino. 
+
 The Android phone needs to interface with the Arduino over Bluetooth, the App is made to controle 9 shades. 
+
 Play around with the code and make it fit your needs.
 
 # How to use with example commands
